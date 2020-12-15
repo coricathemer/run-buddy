@@ -90,3 +90,7 @@ header {
     right: 140px;
   }
   /* Hero Style End */
+
+  .hero-form p {
+    margin: 5px 0 15px 0;
+  }
